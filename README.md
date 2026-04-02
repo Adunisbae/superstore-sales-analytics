@@ -34,7 +34,7 @@ superstore-sales-analytics/
 │   └── avg_profit_by_discount.png
 │
 └── README.md
-
+```
 ## 📘 Notebooks
 
 - **[01_EDA.ipynb](notebooks/01_EDA.ipynb)** – Exploratory Data Analysis  
