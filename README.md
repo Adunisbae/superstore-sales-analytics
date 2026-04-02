@@ -95,7 +95,6 @@ Implemented in 02_Advanced_Analysis.ipynb:
 - Python + SQL hybrid analysis
 
 ▶️ How to Run the Project:
-
 1. Clone the repository:
 - git clone https://github.com/Adunisbae/superstore-sales-analytics.git
 - cd superstore-sales-analytics
